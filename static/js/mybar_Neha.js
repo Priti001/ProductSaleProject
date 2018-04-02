@@ -31,13 +31,6 @@
         {label:"Wipes", "Sales":3653},
         ];
 
-    //dataset = [
-     //   {label:"Bleach Solution", "Food Services":25, "Not Much Satisfied":40, "Satisfied": 15, "Very Satisfied":20},
-      //  {label:"Sciences", "Not Satisfied":5, "Not Much Satisfied":30, "Satisfied": 50, "Very Satisfied":15},
-     //   {label:"Health Sciences", "Not Satisfied":20, "Not Much Satisfied":30, "Satisfied": 40, "Very Satisfied":10},
-       // {label:"Social Sciences", "Not Satisfied":10, "Not Much Satisfied":40, "Satisfied": 45, "Very Satisfied":5},
-        //{label:"Architecture and Engineering", "Not Satisfied":5, "Not Much Satisfied":15, "Satisfied": 40, "Very Satisfied":40},
-   // ];
     var margin = {top: (parseInt(d3.select('body').style('height'), 10)/20), right: (parseInt(d3.select('body').style('width'), 10)/20), bottom: (parseInt(d3.select('body').style('height'), 10)/6), left: (parseInt(d3.select('body').style('width'), 10)/20)},
             width = parseInt(d3.select('body').style('width'), 10) - margin.left - margin.right,
             height = parseInt(d3.select('body').style('height'), 10) - margin.top - margin.bottom;
