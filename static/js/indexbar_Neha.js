@@ -1,15 +1,15 @@
 var $this = $('.chart');
 
 var data = [{
-  label: "Bleach Solution",
+  label: "Bleach Sol.",
   "Month": 192,
   "Week": 16
 }, {
-  label: "Cleaning & Disinfecting",
+  label: "Cleaning-Disin.",
   "Month": 460,
   "Week": 32
 }, {
-  label: "Franganzia Cleaner",
+  label: "  Franganzia Cleaner",
   "Month": 6400,
   "Week": 288
 }, {
